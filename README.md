@@ -1,3 +1,8 @@
+# Video do Youtube:
+https://youtu.be/OXxul6AvXNs
+
+
+# Criando o projeto
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
